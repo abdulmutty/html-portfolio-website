@@ -297,11 +297,16 @@ section .holstee-manifesto,
 section .unplugged {
   border-bottom: 1px solid white;
   margin: 20px 0;
+  text-align: justify;
 }
 
 /* Section ABOUT */
 #about img {
   border-radius: 50%;
+}
+
+#about article {
+  text-align: justify;
 }
 
 /* CONTACT page */
