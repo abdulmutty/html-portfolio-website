@@ -326,7 +326,8 @@ section .unplugged {
     left: 0;
 }
 
-
+.mission .mission-content {
+  text-align: justify;
 }
 
 /* ==========================================================================
